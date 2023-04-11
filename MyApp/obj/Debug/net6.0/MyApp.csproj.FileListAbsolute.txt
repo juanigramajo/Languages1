@@ -1,0 +1,45 @@
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/Primer Cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/juanigramajo/Desktop/Fac/04. Segundo año/01. Primer cuatrimestre/Taller de Lenguajes I/Trabajos Prácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/juanigramajo/Desktop/Fac/04.Segundoaño/01.Primercuatrimestre/TallerdeLenguajesI/TrabajosPrácticos/rpg-2022-juanigramajo/MyApp/obj/Debug/net6.0/ref/MyApp.dll
